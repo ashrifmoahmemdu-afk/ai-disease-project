@@ -1,0 +1,26 @@
+# Example folder names for Sri Lanka dataset (one folder per line)
+# Copy images into dataset_sri_lanka/<folder_name>/
+# Then set in config.py:
+#   DATASET_PATH = "dataset_sri_lanka"
+#   AUTO_DISCOVER_CLASSES = True
+
+Banana_Sigatoka
+Banana_healthy
+Rice_Blast
+Rice_Bacterial_leaf_blight
+Rice_Brown_spot
+Rice_healthy
+Coconut_Leaf_wilt
+Coconut_healthy
+Tea_Blister_blight
+Tea_Red_rust
+Tea_healthy
+Chili_Anthracnose
+Chili_healthy
+Tomato_Early_blight
+Tomato_Late_blight
+Tomato_healthy
+Mango_Anthracnose
+Mango_healthy
+Papaya_Ringspot
+Papaya_healthy
